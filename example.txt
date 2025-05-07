@@ -1,0 +1,17 @@
+Person A: Hey, how's it going?
+
+Person B: Not too bad, just trying to learn something new. You?
+
+Person A: Same here! Been exploring some new programming languages lately.
+
+Person B: Oh, nice! Which ones?
+
+Person A: I started looking into Deno. It's pretty cool so far.
+
+Person B: Deno? Isn't that like Node.js but with some extra features?
+
+Person A: Exactly! It has built-in TypeScript support and better security by default.
+
+Person B: Sounds interesting. Maybe I should give it a try too.
+
+Person A: Definitely! Let me know if you need any tips.
